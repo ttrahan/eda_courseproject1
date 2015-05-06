@@ -1,5 +1,7 @@
+# Language setting
+language: R
 
-#npm builds
+#Version numbers
 R:
   - 3.2
   - 3.1
